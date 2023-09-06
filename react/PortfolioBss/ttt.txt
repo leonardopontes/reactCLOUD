@@ -1,0 +1,13 @@
+            <div className="w-full px-4 lg:w-1/2">
+              <div
+                className="relative mx-auto aspect-[25/24] w-[80%] h-[400px] lg:mr-0"
+                data-wow-delay=".2s"
+              >
+                <Image
+                  src="/images/about/e1.jpg"
+                  alt="about-image"
+                  fill
+                  className="mx-auto lg:mr-0"
+                />
+              </div>
+            </div>

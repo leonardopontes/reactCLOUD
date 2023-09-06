@@ -1,0 +1,11 @@
+- Login
+ - Credenciais
+  - Esqueci Senha (Check email)
+   - New password & Home 
+ - OAuth
+
+- Criar Conta
+ - Credenciais
+ - OAuth
+
+- Home & Logout (return)
